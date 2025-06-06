@@ -13,5 +13,47 @@
         "previous_hash": "0",
         "nonce": 967,
         "hash": "000e56c8ed10ed8e15a903fb97324cd2db89b68651ad6ef3dfcbdea6925779a6"
+    },
+    {
+        "index": 1,
+        "timestamp": "2025-06-06T17:10:00.176625",
+        "transactions": [
+            {
+                "from": "coinbase",
+                "to": "Fonsi",
+                "amount": 3,
+                "type": "reward"
+            },
+            {
+                "sender": "Fonsi",
+                "receiver": "Rafa",
+                "amount": 50.0,
+                "timestamp": "2025-06-06T17:09:47.811712"
+            }
+        ],
+        "previous_hash": "000e56c8ed10ed8e15a903fb97324cd2db89b68651ad6ef3dfcbdea6925779a6",
+        "nonce": 453,
+        "hash": "0000198c6ba8ab2f7351ed99d5aa684fac3da66ab94e0e9304c178129f177f76"
+    },
+    {
+        "index": 2,
+        "timestamp": "2025-06-06T17:39:38.209576",
+        "transactions": [
+            {
+                "from": "coinbase",
+                "to": "Fonsi",
+                "amount": 3,
+                "type": "reward"
+            },
+            {
+                "sender": "Fonsi",
+                "receiver": "Rafa",
+                "amount": 50.0,
+                "timestamp": "2025-06-06T17:36:06.175141"
+            }
+        ],
+        "previous_hash": "0000198c6ba8ab2f7351ed99d5aa684fac3da66ab94e0e9304c178129f177f76",
+        "nonce": 909,
+        "hash": "000fc3eb4782b43144293d668ec9cfd91699f5eb64a1f624cc14bd634741ebb4"
     }
 ]

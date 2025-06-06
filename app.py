@@ -99,7 +99,6 @@ elif option == "Balances":
     for u in utxos:
         data.append({
             "Nombre": u["name"],
-            "Dirección": u["address"],
             "Saldo": sum(u["cantidad"])
         })
     df = pd.DataFrame(data)
