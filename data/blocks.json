@@ -1,0 +1,17 @@
+[
+    {
+        "index": 0,
+        "timestamp": "2025-06-06T12:59:11.546079",
+        "transactions": [
+            {
+                "from": "coinbase",
+                "to": "Fonsi",
+                "amount": 1000,
+                "type": "premine"
+            }
+        ],
+        "previous_hash": "0",
+        "nonce": 967,
+        "hash": "000e56c8ed10ed8e15a903fb97324cd2db89b68651ad6ef3dfcbdea6925779a6"
+    }
+]
